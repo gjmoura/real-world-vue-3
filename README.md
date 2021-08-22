@@ -1,4 +1,6 @@
-# real-world-vue
+# Real World Vue3
+
+Aplicação utilizada para aprendizagem de conceitos básicos de Vue.jS. 
 
 ## Project setup
 ```
